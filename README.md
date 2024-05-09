@@ -52,3 +52,23 @@ ArrayDeque<String> deque = new ArrayDeque<>();
 ```java
 LinkedHashMap<String, Integer> map = new LinkedHashMap<>();
 ```
+
+# I/O
+
+```java
+Scanner scanner = new Scanner(System.in);
+int num = scanner.nextInt();
+double value = scanner.nextDouble();
+String text = scanner.next();
+String line = scanner.nextLine();
+boolean flag = Boolean.parseBoolean(scanner.next());
+char c = scanner.next().charAt(0);
+```
+
+# Type Conversions
+
+
+
+
+
+
