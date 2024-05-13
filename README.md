@@ -3,6 +3,7 @@
 ### Lists
 ```java
 ArrayList<String> list = new ArrayList<>();
+
 LinkedList<Integer> list = new LinkedList<>();
 ```
 
@@ -10,6 +11,7 @@ LinkedList<Integer> list = new LinkedList<>();
 
 ```java
 HashSet<String> set = new HashSet<>();
+
 TreeSet<Integer> set = new TreeSet<>();
 ```
 
