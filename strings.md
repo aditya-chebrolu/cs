@@ -7,13 +7,20 @@
 // Using string literal
 String str1 = "Hello";
 // Using new keyword
-String str2 = new String("Hello");
+String str2 =new String("Hello");
 // From a char array
 char[] chars = {'H', 'e', 'l', 'l', 'o'};
-String str3 = new String(chars);
+String str3 = new new String(chars);
 // From byte array
 byte[] bytes = {72, 101, 108, 108, 111};
 String str4 = new String(bytes);
+```
+
+```js
+console.log('ok')
+let let = 4
+let a = 3
+let b=4;
 ```
 
 **Swift**
