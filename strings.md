@@ -7,7 +7,7 @@
 // Using string literal
 String str1 = "Hello";
 // Using new keyword
-String str2 =new String("Hello");
+String str2 = new String("Hello");
 // From a char array
 char[] chars = {'H', 'e', 'l', 'l', 'o'};
 String str3 = new new String(chars);
