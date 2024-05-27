@@ -16,13 +16,6 @@ byte[] bytes = {72, 101, 108, 108, 111};
 String str4 = new String(bytes);
 ```
 
-```js
-console.log('ok')
-let let = 4
-let a = 3
-let b=4;
-```
-
 **Swift**
 ```swift
 // Using string literal
